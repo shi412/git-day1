@@ -1,3 +1,3 @@
-print("hello git")
+print("hello from master")
 print("this is feature")
 
